@@ -1,0 +1,104 @@
+
+
+
+
+
+.body{
+    background-color: lightsalmon;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    line-height: 3em;
+}
+
+
+
+.contaier{
+
+width: 80% ;
+margin: auto;
+}
+
+
+
+
+
+.box-1{
+    background-color: red;
+    color:#fff;
+    border-width: 3px;
+    border-bottom-width: 10px;
+    padding: 20px;
+    margin: 20px;
+}
+
+
+
+
+.box-2{
+    background-color: yellow;
+    color:black;
+    border-width: 3px;
+    border-bottom-width: 10px;
+    padding:20px;
+    margin: 20px;
+}
+
+
+
+.box-3{
+    background-color: skyblue;
+    color:black;
+    border-width: 3px;
+    border-bottom-width: 10px;
+    padding:20px;
+    margin: 20px;
+
+}
+
+
+
+
+.categories{
+    padding-top: 20px;
+    margin-top: 20px;
+    border: 5px;
+    padding: 20px;
+    
+}
+
+
+
+.categories h2 {
+
+    text-align: center;
+    background-image:url('../images/abc.jpg') ;
+    background-position: center;
+    
+}
+
+.h h1{
+    font-size: small;
+    text-align: center;
+    color: #fff;
+
+}
+
+
+
+
+.categories ul {
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    list-style:none;
+    padding: 0px;
+    
+}
+
+
+.categories li{
+    border-bottom:dotted 1px #333 ;
+    padding-bottom: 6px;
+    list-style-image: url('../images/check.png');
+}
+

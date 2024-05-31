@@ -1,0 +1,23 @@
+.a1{
+    text-align:center;
+    font-size:large;
+    margin: 20px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightcoral;
+    
+}
+.a1 label{
+    display: block;
+}
+.a1 input {
+    padding: 8px;
+    width: 50%;
+}
+.a1 input[type="submit"]
+{
+    background-color: #333 ;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+}
